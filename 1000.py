@@ -1,0 +1,5 @@
+nums = input()
+a, b = map(int, nums.split(" "))
+a = int(a)
+b = int(b)
+print(a+b)
